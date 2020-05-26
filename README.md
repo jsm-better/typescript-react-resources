@@ -1,8 +1,8 @@
 # TypeScript + React resources
 
-This document is a work in progress. Contribution, feedback, and criticism welcome!
+*This document is a work in progress. Contribution, feedback, and criticism welcome! Feel free to leave issues or make PRs*
 
-*WARNING: 2018/9 was a significant paradigm shift in React away from using class components with lifecycle methods and to using exclusively function components and hooks. Avoid material focused around class components and lifecycle methods. Older material may be useful for contextualizing the rise of hooks or when maintaining legacy code but we should not be using class or lifecycle methods in new code*
+**WARNING: 2018/9 was a significant paradigm shift in React away from using class components with lifecycle methods and to using exclusively function components and hooks. Avoid material focused around class components and lifecycle methods. Older material may be useful for contextualizing the rise of hooks or when maintaining legacy code but we should not be using class or lifecycle methods in new code**
 
 ## Just React
 
