@@ -2,11 +2,11 @@
 
 This document is a work in progress. Contribution, feedback, and criticism welcome!
 
-*WARNING: 2018/9 was a significant paradigm shift in React. Avoid material focused around class components and lifecycle methods. Older material may be useful for contextualizing the rise of hooks or when maintaining legacy code but we should not be using class or lifecycle methods in new code*
+*WARNING: 2018/9 was a significant paradigm shift in React away from using class components with lifecycle methods and to using exclusively function components and hooks. Avoid material focused around class components and lifecycle methods. Older material may be useful for contextualizing the rise of hooks or when maintaining legacy code but we should not be using class or lifecycle methods in new code*
 
 ## Just React
 
-- React official docs (https://reactjs.org/docs/getting-started.html) are some of the best docs of any library I've used
+- [React official docs](https://reactjs.org/docs/getting-started.html) are some of the best docs of any library I've used
   - If you're just getting started, I'd suggest powering through the tutorial to get a feel, then skimming through any of the docs that seem interesting / relevant (to me that would be all of it) but certainly looking at the hooks section
 - Dan Abromov (author of redux who later joined the react core team) is one of the better speakers / writers about React (and actually programming generally) and he's wildly prolific (I'm not convinced he isn't several people and just one of them gives conference talks)
   - [React Today and Tomorrow...](https://reactjs.org/docs/hooks-intro.html#video-introduction) the React Conf 2018 talk introducing hooks by Dan Abramov
