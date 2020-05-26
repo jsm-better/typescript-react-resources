@@ -17,7 +17,7 @@
 ## TypeScript + React
 
 - [TypeScript + React best practices (Jan 2020)](https://www.sitepoint.com/react-with-typescript-best-practices/) is a good high level overview
-- [React TypeScript cheatsheet](https://react-typescript-cheatsheet.netlify.app/) (heavily sited in the site point article above
+- [React TypeScript cheatsheet](https://react-typescript-cheatsheet.netlify.app/) (heavily sited in the site point article above)
 
 ## Just TypeScript
 
